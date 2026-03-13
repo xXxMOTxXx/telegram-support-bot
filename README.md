@@ -112,7 +112,7 @@ README.md
 
 Clone repository
 
-git clone https://github.com/yourusername/telegram-support-bot.git
+git clone [https://github.com/xXxMOTxXx/telegram-support-bot](https://github.com/xXxMOTxXx/telegram-support-bot)
 
 cd telegram-support-bot
 
